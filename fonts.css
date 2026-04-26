@@ -1,5 +1,5 @@
 @font-face {
     font-family: 'RiiCookie';
-    src: url('./RiiCookieRt.otf') format('opentype');
+    src: url('./RiiCookieRt.woff') format('woff');
     font-display: swap;
 }
